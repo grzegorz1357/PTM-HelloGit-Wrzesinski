@@ -12,6 +12,8 @@ namespace PTM_HelloGit_Wrzesinski
         {
             Console.WriteLine("Hello Git!");
 
+            Console.WriteLine("Hello Git!");
+
             Console.ReadKey();
         }
     }
